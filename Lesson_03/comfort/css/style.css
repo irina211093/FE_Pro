@@ -119,18 +119,19 @@
 
 .offers-container {
      display: flex;
-    justify-content: space-between; 
+     flex-direction: row;
+     align-items: center;
+    /* justify-content: space-between;  */
     gap: 20px; 
-    padding: 20px; 
+    padding: 0; 
     background-color: #f4f4f4; 
     max-width: 1200px;
     margin: 0 auto;
-    margin-top: 108.65px; 
+     margin-top: 108.65px; 
     margin-left: auto;
-    margin-right: auto;
-    
-
-
+    margin-right: auto; 
+    /* margin-bottom: 135,49px; */
+     
 }
 
 .container-card {
@@ -140,6 +141,8 @@
     line-height: 22.62px;
     letter-spacing: 0.02em;
     text-align: left; 
+    max-width: 144,38px ;
+    height: 181,15px;
 
 }
 .icon {
