@@ -115,3 +115,52 @@
     border: 1px solid #fff;
     color: #fff;
 }
+
+
+.offers-container {
+     display: flex;
+    justify-content: space-between; 
+    gap: 20px; 
+    padding: 20px; 
+    background-color: #f4f4f4; 
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-top: 108.65px; 
+    margin-left: auto;
+    margin-right: auto;
+    
+
+
+}
+
+.container-card {
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 22.62px;
+    letter-spacing: 0.02em;
+    text-align: left; 
+
+}
+.icon {
+    color: #222222;
+
+}
+
+.title {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19.2px;
+    padding-bottom: 10px;
+    padding-top: 29px;
+}
+
+.text {
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 22.62px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
