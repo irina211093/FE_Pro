@@ -6,7 +6,9 @@
     margin: 0;
     box-sizing: border-box;
     font-family: "Inter", sans-serif;
+
 }
+
 
 .header {
     /* background-image: url("../image/header-bg.png"); */
@@ -121,9 +123,11 @@
     display: flex;
     flex-direction: column;
     gap: 109px; 
-    padding: 136px;
+     padding: 136px; 
     background-color: #f4f4f4; 
     max-width: 1400px;  
+    margin: 0 auto;
+    position: relative;
 }
 
 .features .container {
