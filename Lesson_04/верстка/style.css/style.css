@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+
+.header {
+    
+    image: url("../image/header-bg.png");
+    height: 780px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
